@@ -1,0 +1,521 @@
+Order_ID,Order_Date,Region,City,Category,Product,Quantity,Unit_Price,Discount,Sales,Profit,Customer_Segment,Payment_Method,Rating
+ORD-1001,2024-01-04,East,Kolkata,Electronics,Laptop,3,53330.95,0.0,159992.85,27534.3,Consumer,UPI,3.0
+ORD-1002,2024-01-05,East,Bhubaneswar,Electronics,Smart Watch,1,5687.66,0.0,5687.66,791.24,Consumer,UPI,4.0
+ORD-1003,2024-01-06,South,Chennai,Stationery,Backpack,9,1390.43,0.0,12513.87,2321.47,Corporate,Credit Card,3.5
+ORD-1004,2024-01-08,East,Bhubaneswar,Furniture,Sofa,2,26215.49,0.15,44566.33,3689.84,Consumer,Cash,4.3
+ORD-1005,2024-01-11,West,Mumbai,Stationery,Pen Box,9,188.05,0.1,1523.21,330.31,Consumer,Credit Card,5.0
+ORD-1006,2024-01-14,East,Kolkata,Clothing,Sneakers,4,2862.52,0.0,11450.08,2610.09,Consumer,UPI,2.9
+ORD-1007,2024-01-14,West,Jamnagar,Furniture,Bookshelf,4,6374.64,0.1,22948.7,3316.81,Small Business,Credit Card,4.8
+ORD-1008,2024-01-15,West,Ahmedabad,Clothing,Sneakers,9,2868.36,0.15,21942.95,5080.77,Consumer,Debit Card,3.2
+ORD-1009,2024-01-16,West,Jamnagar,Grocery,Tea Pack,9,329.4,0.1,2668.14,17.76,Consumer,Net Banking,4.0
+ORD-1010,2024-01-17,Central,Indore,Stationery,Notebook Set,9,253.75,0.1,2055.38,450.68,Consumer,Credit Card,3.5
+ORD-1011,2024-01-17,West,Ahmedabad,Clothing,T-Shirt,2,606.24,,1151.86,308.93,Corporate,Debit Card,5.0
+ORD-1012,2024-01-17,East,Bhubaneswar,Clothing,T-Shirt,10,563.49,0.0,5634.9,1225.83,Consumer,Debit Card,4.6
+ORD-1013,2024-01-19,East,Kolkata,Furniture,Bookshelf,9,6773.03,0.0,60957.27,12473.61,Consumer,UPI,4.7
+ORD-1014,2024-01-19,South,Bengaluru,Clothing,Jacket,4,3628.62,0.05,13788.76,4994.67,Consumer,UPI,4.9
+ORD-1015,2024-01-23,North,Delhi,Grocery,Dry Fruits,10,1126.75,0.15,9577.38,187.67,Corporate,Debit Card,4.1
+ORD-1016,2024-01-24,North,Delhi,Clothing,Jacket,9,3385.4,,28945.17,7625.98,Small Business,Debit Card,3.0
+ORD-1017,2024-01-26,West,Jamnagar,Stationery,Notebook Set,9,241.36,0.15,1846.4,167.95,Corporate,Debit Card,4.5
+ORD-1018,2024-01-28,Central,Bhopal,Stationery,Backpack,1,1437.8,0.0,1437.8,383.2,Small Business,Debit Card,3.8
+ORD-1019,2024-01-28,South,Bengaluru,Electronics,Laptop,1,55932.14,0.15,47542.32,1371.85,Consumer,Cash,3.8
+ORD-1020,2024-01-31,North,Delhi,Grocery,Dry Fruits,7,1264.89,0.0,8854.23,567.78,Consumer,Debit Card,4.1
+ORD-1021,2024-02-01,North,Chandigarh,Stationery,Pen Box,2,186.76,0.0,373.52,71.2,Small Business,Credit Card,4.3
+ORD-1022,2024-02-02,South,Chennai,Clothing,T-Shirt,1,636.88,0.1,573.19,105.83,Consumer,Net Banking,3.5
+ORD-1023,2024-02-02,East,Kolkata,Grocery,Cooking Oil 5L,7,859.85,0.0,6018.95,699.53,Corporate,Debit Card,3.8
+ORD-1024,2024-02-12,North,Delhi,Stationery,Notebook Set,2,250.33,0.05,475.63,93.28,Consumer,UPI,4.8
+ORD-1025,2024-02-16,Central,Bhopal,Clothing,Sneakers,7,2860.31,0.05,19021.06,4883.78,Corporate,UPI,3.7
+ORD-1026,2024-02-17,East,Bhubaneswar,Clothing,Jeans,5,1720.97,0.05,8174.61,2355.55,Corporate,Debit Card,4.4
+ORD-1027,2024-02-18,Central,Indore,Grocery,Cooking Oil 5L,6,840.67,0.1,4539.62,114.61,Corporate,Cash,4.4
+ORD-1028,2024-02-19,South,Chennai,Clothing,Jacket,6,3667.93,0.0,22007.58,8087.27,Consumer,UPI,4.8
+ORD-1029,2024-02-19,North,Chandigarh,Electronics,Laptop,1,53540.34,0.0,53540.34,5963.82,Consumer,Cash,3.0
+ORD-1030,2024-02-25,East,Bhubaneswar,Furniture,Bookshelf,2,6604.87,0.0,13209.74,2704.53,Small Business,Debit Card,3.6
+ORD-1031,2024-02-27,West,Mumbai,Grocery,Rice 10kg,8,883.85,0.1,6363.72,4.78,Consumer,UPI,3.5
+ORD-1032,2024-02-27,West,Mumbai,Grocery,Dry Fruits,10,1210.75,0.15,10291.38,456.14,Consumer,UPI,5.0
+ORD-1033,2024-02-29,South,Bengaluru,Grocery,Rice 10kg,5,895.58,0.0,4477.9,280.61,Consumer,UPI,4.4
+ORD-1034,2024-03-01,Central,Indore,Clothing,Sneakers,6,2796.99,0.0,16781.94,4174.23,Corporate,Credit Card,3.8
+ORD-1035,2024-03-02,Central,Indore,Grocery,Tea Pack,1,342.53,0.05,325.4,15.84,Consumer,Debit Card,5.0
+ORD-1036,2024-03-02,East,Kolkata,Clothing,Jeans,10,1825.09,0.15,15513.26,2995.89,Consumer,UPI,4.0
+ORD-1037,2024-03-03,South,Chennai,Stationery,Printer Paper,7,398.33,,2788.31,498.38,Small Business,Credit Card,4.1
+ORD-1038,2024-03-04,West,Jamnagar,Clothing,Jacket,1,3375.69,0.1,3038.12,840.81,Corporate,Credit Card,3.8
+ORD-1039,2024-03-06,North,Delhi,Stationery,Printer Paper,8,451.13,0.1,3248.14,747.14,Corporate,Credit Card,3.4
+ORD-1040,2024-03-06,Central,Indore,Grocery,Cooking Oil 5L,10,915.9,0.0,9159.0,928.38,Consumer,UPI,3.1
+ORD-1041,2024-03-07,South,Chennai,Grocery,Dry Fruits,5,1293.22,0.05,6142.8,574.07,Corporate,UPI,3.6
+ORD-1042,2024-03-07,Central,Bhopal,Grocery,Cooking Oil 5L,,893.87,0.0,8938.7,680.14,Consumer,Debit Card,3.0
+ORD-1043,2024-03-08,Central,Bhopal,Grocery,Rice 10kg,9,934.48,0.15,7148.77,-154.22,Corporate,Cash,4.0
+ORD-1044,2024-03-09,West,Jamnagar,Clothing,Jeans,7,1664.53,0.05,11069.12,3919.87,Consumer,Cash,5.0
+ORD-1045,2024-03-09,East,Bhubaneswar,Stationery,Backpack,3,1521.68,0.05,4336.79,720.88,Consumer,UPI,4.4
+ORD-1046,2024-03-10,East,Kolkata,Grocery,Cooking Oil 5L,9,917.83,0.0,8260.47,648.91,Corporate,Net Banking,3.1
+ORD-1047,2024-03-11,North,Delhi,Clothing,T-Shirt,4,639.87,0.05,2431.51,490.86,Consumer,UPI,4.2
+ORD-1048,2024-03-11,Central,Indore,Clothing,Sneakers,7,2729.8,0.05,18153.17,6659.34,Consumer,UPI,3.9
+ORD-1049,2024-03-16,South,Bengaluru,Electronics,Headphones,4,2663.63,0.05,10121.79,1308.06,Corporate,UPI,3.1
+ORD-1050,2024-03-17,South,Bengaluru,Furniture,Office Chair,2,7949.18,0.0,15898.36,3723.77,Corporate,Credit Card,4.4
+ORD-1051,2024-03-18,East,Kolkata,Stationery,Printer Paper,7,441.14,0.15,2624.78,506.95,Corporate,UPI,3.7
+ORD-1052,2024-03-18,West,Mumbai,Stationery,Backpack,6,1483.91,0.0,8903.46,2617.32,Consumer,UPI,3.3
+ORD-1053,2024-03-19,West,Ahmedabad,Clothing,Jeans,6,1746.02,0.0,10476.12,2329.05,Consumer,Debit Card,3.4
+ORD-1054,2024-03-20,East,Bhubaneswar,Furniture,Study Table,4,8879.92,0.0,35519.68,5925.06,Consumer,Credit Card,3.1
+ORD-1055,2024-03-20,South,Chennai,Furniture,Study Table,5,9404.04,0.15,39967.17,4558.35,Consumer,Credit Card,3.4
+ORD-1056,2024-03-24,Central,Indore,Electronics,Smart Watch,4,6413.17,0.0,25652.68,3234.21,Consumer,UPI,3.9
+ORD-1057,2024-03-24,West,Ahmedabad,Stationery,Notebook Set,1,237.53,0.0,237.53,39.57,Consumer,Credit Card,3.3
+ORD-1058,2024-03-25,Central,Indore,Grocery,Cooking Oil 5L,1,898.06,0.1,808.25,9.21,Small Business,UPI,3.8
+ORD-1059,2024-03-27,North,Delhi,Clothing,Sneakers,7,3017.12,0.05,20063.85,6774.2,Corporate,Credit Card,4.9
+ORD-1060,2024-03-27,South,Chennai,Clothing,Jacket,4,3263.74,0.0,13054.96,3515.64,Consumer,Debit Card,5.0
+ORD-1061,2024-03-27,West,Mumbai,Grocery,Dry Fruits,4,1274.88,0.05,4844.54,163.85,Corporate,UPI,4.0
+ORD-1062,2024-03-29,South,Chennai,Stationery,Pen Box,1,166.08,0.2,132.86,18.29,Small Business,Cash,3.9
+ORD-1063,2024-03-30,South,Bengaluru,Clothing,T-Shirt,3,556.85,0.05,1587.02,371.28,Corporate,UPI,4.7
+ORD-1064,2024-03-31,East,Kolkata,Electronics,Tablet,9,17290.55,0.1,140053.45,11954.13,Corporate,Debit Card,4.8
+ORD-1065,2024-04-02,North,Chandigarh,Grocery,Tea Pack,10,345.48,0.05,3282.06,84.92,Consumer,Credit Card,3.6
+ORD-1066,2024-04-03,South,Chennai,Stationery,Printer Paper,4,432.27,0.0,1729.08,508.75,Consumer,Cash,4.2
+ORD-1067,2024-04-03,East,Bhubaneswar,Electronics,Smartphone,2,22821.9,0.15,38797.23,1664.61,Corporate,Debit Card,4.3
+ORD-1068,2024-04-04,East,Kolkata,Clothing,Jeans,2,1916.34,0.15,3257.78,927.23,Consumer,Debit Card,3.8
+ORD-1069,2024-04-05,West,Mumbai,Stationery,Backpack,4,1552.64,0.15,5278.98,708.41,Corporate,Credit Card,3.5
+ORD-1070,2024-04-06,South,Chennai,Clothing,Jacket,10,3481.88,0.0,34818.8,9590.53,Consumer,UPI,4.3
+ORD-1071,2024-04-06,East,Bhubaneswar,Furniture,Office Chair,10,7192.32,0.0,71923.2,18917.65,Consumer,UPI,3.1
+ORD-1072,2024-04-12,North,Chandigarh,Clothing,T-Shirt,5,576.91,0.0,2884.55,854.69,Corporate,Credit Card,2.6
+ORD-1073,2024-04-12,North,Chandigarh,Furniture,Office Chair,3,7817.76,0.15,19935.29,4191.32,Small Business,Net Banking,3.2
+ORD-1074,2024-04-12,West,Ahmedabad,Electronics,Tablet,4,18152.35,0.0,72609.4,11950.03,Consumer,UPI,4.0
+ORD-1075,2024-04-12,Central,Bhopal,Electronics,Laptop,3,55741.21,0.1,150501.27,8970.37,Consumer,Debit Card,3.9
+ORD-1076,2024-04-12,South,Chennai,Electronics,Smart Watch,10,5635.83,0.15,47904.56,720.46,Corporate,UPI,4.3
+ORD-1077,2024-04-13,West,Ahmedabad,Clothing,T-Shirt,3,620.18,0.15,1581.46,474.3,Consumer,UPI,2.7
+ORD-1078,2024-04-15,South,Chennai,Electronics,Laptop,3,58414.3,0.1,157718.61,12896.04,Consumer,Credit Card,3.8
+ORD-1079,2024-04-15,North,Delhi,Electronics,Smartphone,1,23591.92,0.05,22412.32,3369.03,Corporate,UPI,3.9
+ORD-1080,2024-04-18,North,Delhi,Electronics,Smartphone,1,23467.31,0.0,23467.31,3304.5,Consumer,Credit Card,4.2
+ORD-1081,2024-04-20,Central,Indore,Stationery,Notebook Set,9,259.66,0.05,2220.09,328.42,Consumer,UPI,5.0
+ORD-1082,2024-04-20,South,Bengaluru,Grocery,Tea Pack,7,364.05,0.1,2293.51,34.03,Consumer,Credit Card,4.0
+ORD-1083,2024-04-21,East,Kolkata,Stationery,Pen Box,3,167.39,0.05,477.06,68.87,Corporate,UPI,
+ORD-1084,2024-04-21,North,Delhi,Furniture,Study Table,8,8943.98,0.1,64396.66,12232.42,Small Business,UPI,4.2
+ORD-1085,2024-04-22,West,Jamnagar,Grocery,Dry Fruits,9,1111.73,0.05,9505.29,831.47,Small Business,Credit Card,3.7
+ORD-1086,2024-04-27,Central,Indore,Furniture,Study Table,10,8807.52,0.1,79267.68,,Corporate,Credit Card,4.1
+ORD-1087,2024-04-27,South,Chennai,Clothing,T-Shirt,7,584.87,0.05,3889.39,1022.95,Consumer,Debit Card,3.7
+ORD-1088,2024-04-27,Central,Indore,Grocery,Cooking Oil 5L,1,826.41,,826.41,86.34,Consumer,Debit Card,4.0
+ORD-1089,2024-04-30,West,Mumbai,Furniture,Sofa,1,27030.17,0.1,24327.15,5754.56,Consumer,Debit Card,3.7
+ORD-1090,2024-04-30,East,Kolkata,Clothing,Jacket,3,3570.27,0.0,10710.81,4233.19,Corporate,UPI,3.6
+ORD-1091,2024-05-01,South,Chennai,Stationery,Backpack,7,1486.55,0.2,8324.68,1482.61,Consumer,Credit Card,4.1
+ORD-1092,2024-05-01,Central,Indore,Furniture,Sofa,1,29848.77,0.2,23879.02,4214.61,Corporate,Debit Card,4.1
+ORD-1093,2024-05-01,South,Chennai,Clothing,Jacket,5,3354.53,0.1,15095.39,3137.79,Corporate,Credit Card,5.0
+ORD-1094,2024-05-04,East,Bhubaneswar,Grocery,Cooking Oil 5L,9,804.81,0.0,7243.29,532.59,Corporate,UPI,3.9
+ORD-1095,2024-05-07,North,Delhi,Electronics,Laptop,2,59387.76,0.0,118775.52,11330.75,Corporate,Net Banking,5.0
+ORD-1096,2024-05-07,South,Bengaluru,Electronics,Tablet,2,18837.33,0.0,37674.66,6347.61,Consumer,Cash,4.5
+ORD-1097,2024-05-09,North,Chandigarh,Clothing,Jacket,6,3500.43,0.1,18902.32,5302.81,Small Business,Credit Card,5.0
+ORD-1098,2024-05-10,South,Chennai,Grocery,Rice 10kg,10,873.84,0.05,8301.48,454.38,Corporate,UPI,4.5
+ORD-1099,2024-05-11,West,Jamnagar,Grocery,Dry Fruits,9,1184.0,0.0,10656.0,1091.36,Consumer,Cash,
+ORD-1100,2024-05-11,East,Kolkata,Stationery,Backpack,1,1416.85,0.05,1346.01,181.88,Consumer,Credit Card,3.8
+ORD-1101,2024-05-12,North,Chandigarh,Electronics,Smartphone,2,23137.41,0.0,46274.82,4381.59,Corporate,Credit Card,3.5
+ORD-1102,2024-05-13,South,Bengaluru,Electronics,Headphones,4,2595.12,0.0,10380.48,1611.39,Corporate,Credit Card,2.4
+ORD-1103,2024-05-17,South,Chennai,Electronics,Smart Watch,3,6241.43,0.0,18724.29,1658.94,Consumer,Cash,
+ORD-1104,2024-05-18,North,Chandigarh,Stationery,Backpack,2,1536.85,0.05,2920.01,537.1,Small Business,Cash,3.0
+ORD-1105,2024-05-22,West,Ahmedabad,Electronics,Headphones,7,2415.63,0.1,15218.47,1318.56,Corporate,Debit Card,3.7
+ORD-1106,2024-05-23,South,Bengaluru,Electronics,Tablet,7,17960.23,0.0,125721.61,15321.14,Corporate,Credit Card,
+ORD-1107,2024-05-25,Central,Bhopal,Furniture,Office Chair,6,7277.7,0.05,41482.89,9395.79,Consumer,UPI,3.8
+ORD-1108,2024-05-25,Central,Indore,Clothing,Sneakers,2,2974.84,0.05,5652.2,1527.33,Consumer,UPI,5.0
+ORD-1109,2024-05-27,North,Delhi,Electronics,Smartphone,3,20993.6,0.0,62980.8,6342.07,Consumer,UPI,3.5
+ORD-1110,2024-05-27,Central,Indore,Furniture,Study Table,4,8359.59,0.05,31766.44,5232.6,Consumer,Cash,3.5
+ORD-1111,2024-05-27,North,Chandigarh,Electronics,Smart Watch,2,5630.71,0.1,10135.28,427.68,Corporate,Cash,4.3
+ORD-1112,2024-06-05,North,Chandigarh,Stationery,Pen Box,1,177.16,0.0,177.16,51.78,Corporate,UPI,3.2
+ORD-1113,2024-06-12,West,Ahmedabad,Clothing,Jacket,5,3763.7,0.05,17877.58,,Consumer,UPI,4.4
+ORD-1114,2024-06-14,East,Kolkata,Electronics,Smart Watch,9,6085.76,0.05,52033.25,,Corporate,Net Banking,
+ORD-1115,2024-06-14,South,Bengaluru,Furniture,Sofa,1,27780.69,0.05,26391.66,5127.18,Corporate,UPI,4.5
+ORD-1116,2024-06-16,Central,Bhopal,Furniture,Bookshelf,1,6152.71,0.1,5537.44,876.93,Corporate,Debit Card,3.9
+ORD-1117,2024-06-17,West,Jamnagar,Grocery,Dry Fruits,,1218.7,0.1,10968.3,40.37,Consumer,Net Banking,3.6
+ORD-1118,2024-06-18,South,Bengaluru,Electronics,Smart Watch,1,6173.2,0.05,5864.54,338.11,Small Business,Credit Card,4.6
+ORD-1119,2024-06-19,Central,Indore,Electronics,Headphones,8,2432.29,0.15,16539.57,699.72,Consumer,UPI,3.7
+ORD-1120,2024-06-21,Central,Bhopal,Clothing,T-Shirt,6,644.68,0.2,3094.46,839.0,Corporate,Cash,2.5
+ORD-1121,2024-06-21,Central,Bhopal,Grocery,Tea Pack,,353.61,0.2,1414.44,-10.6,Consumer,Credit Card,3.2
+ORD-1122,2024-06-23,North,Delhi,Grocery,Rice 10kg,,868.95,0.0,7820.55,869.67,Consumer,Credit Card,4.8
+ORD-1123,2024-06-23,East,Kolkata,Electronics,Smart Watch,7,5881.66,0.1,37054.46,1260.2,Consumer,UPI,3.9
+ORD-1124,2024-06-24,South,Bengaluru,Electronics,Headphones,4,2338.72,0.2,7483.9,153.42,Small Business,UPI,4.5
+ORD-1125,2024-06-27,South,Bengaluru,Stationery,Backpack,7,1482.97,0.05,9861.75,1285.82,Small Business,Net Banking,4.2
+ORD-1126,2024-06-28,West,Jamnagar,Grocery,Tea Pack,,372.57,0.0,1490.28,172.14,Consumer,UPI,
+ORD-1127,2024-06-29,West,Ahmedabad,Electronics,Smart Watch,6,6399.12,0.05,36474.98,3455.03,Consumer,Net Banking,4.6
+ORD-1128,2024-07-01,North,Chandigarh,Electronics,Headphones,3,2685.75,0.0,8057.25,1343.39,Corporate,Net Banking,4.3
+ORD-1129,2024-07-05,Central,Indore,Stationery,Printer Paper,2,439.88,0.05,835.77,172.61,Small Business,Debit Card,2.0
+ORD-1130,2024-07-09,West,Mumbai,Clothing,Sneakers,4,2738.0,0.05,10404.4,2007.54,Corporate,Credit Card,3.5
+ORD-1131,2024-07-10,Central,Bhopal,Clothing,T-Shirt,1,567.12,0.0,567.12,224.1,Consumer,Net Banking,3.0
+ORD-1132,2024-07-11,North,Chandigarh,Electronics,Headphones,1,2361.44,0.0,2361.44,234.99,Small Business,Credit Card,4.0
+ORD-1133,2024-07-13,North,Delhi,Electronics,Headphones,9,2547.12,0.15,19485.47,1946.29,Consumer,UPI,4.7
+ORD-1134,2024-07-13,West,Mumbai,Stationery,Backpack,4,1564.99,0.05,5946.96,906.44,Corporate,Debit Card,4.6
+ORD-1135,2024-07-15,Central,Bhopal,Electronics,Smart Watch,8,5682.12,0.2,36365.57,-43.99,Consumer,Credit Card,3.9
+ORD-1136,2024-07-17,Central,Bhopal,Clothing,Jeans,10,1796.05,0.05,17062.47,,Corporate,UPI,3.9
+ORD-1137,2024-07-19,West,Mumbai,Electronics,Headphones,10,2487.6,0.15,21144.6,1111.28,Corporate,Credit Card,3.7
+ORD-1138,2024-07-20,East,Bhubaneswar,Clothing,Jeans,7,1902.59,0.1,11986.32,2631.41,Corporate,Net Banking,3.4
+ORD-1139,2024-07-20,East,Kolkata,Clothing,Jacket,9,3503.23,0.1,28376.16,6865.38,Corporate,UPI,4.8
+ORD-1140,2024-07-21,North,Chandigarh,Clothing,T-Shirt,8,637.89,0.0,5103.12,1133.63,Consumer,UPI,4.3
+ORD-1141,2024-07-21,West,Ahmedabad,Clothing,T-Shirt,9,625.01,0.1,5062.58,936.76,Consumer,UPI,4.1
+ORD-1142,2024-07-22,East,Kolkata,Furniture,Study Table,2,9072.35,0.1,16330.23,1804.32,Corporate,Debit Card,4.5
+ORD-1143,2024-07-23,South,Chennai,Clothing,Jeans,9,1725.34,0.05,14751.66,3101.85,Consumer,UPI,4.0
+ORD-1144,2024-07-24,Central,Bhopal,Furniture,Office Chair,3,7057.07,0.05,20112.65,3428.09,Consumer,Debit Card,3.5
+ORD-1145,2024-07-24,East,Bhubaneswar,Clothing,Jacket,7,3705.62,0.2,20751.47,4621.42,Small Business,Debit Card,4.8
+ORD-1146,2024-07-26,East,Bhubaneswar,Electronics,Smart Watch,1,5978.11,0.05,5679.2,543.71,Corporate,Cash,5.0
+ORD-1147,2024-07-28,North,Chandigarh,Electronics,Laptop,3,58060.96,0.2,139346.3,9376.78,Consumer,Credit Card,3.9
+ORD-1148,2024-07-29,South,Chennai,Clothing,Jacket,10,3413.0,0.05,32423.5,7595.53,Consumer,UPI,3.6
+ORD-1149,2024-07-29,South,Bengaluru,Clothing,T-Shirt,9,617.41,0.0,5556.69,1306.34,Consumer,Net Banking,4.1
+ORD-1150,2024-07-30,East,Kolkata,Grocery,Dry Fruits,9,1149.17,0.0,10342.53,1215.42,Consumer,Credit Card,4.0
+ORD-1151,2024-07-31,West,Mumbai,Grocery,Tea Pack,8,343.19,0.15,2333.69,-23.53,Corporate,Net Banking,4.2
+ORD-1152,2024-08-02,South,Bengaluru,Electronics,Tablet,6,18892.63,0.0,113355.78,13548.68,Consumer,UPI,3.3
+ORD-1153,2024-08-03,North,Chandigarh,Clothing,Jeans,5,1904.2,0.1,8568.9,2468.53,Consumer,Credit Card,4.2
+ORD-1154,2024-08-04,North,Delhi,Electronics,Tablet,8,18733.17,0.0,149865.36,19006.4,Consumer,Credit Card,4.4
+ORD-1155,2024-08-06,North,Delhi,Grocery,Rice 10kg,10,943.59,0.0,9435.9,652.86,Consumer,Net Banking,4.4
+ORD-1156,2024-08-06,West,Ahmedabad,Electronics,Headphones,9,2459.68,0.0,22137.12,2129.46,Corporate,UPI,4.1
+ORD-1157,2024-08-07,East,Kolkata,Stationery,Notebook Set,9,239.11,0.0,2151.99,602.8,Corporate,Debit Card,4.0
+ORD-1158,2024-08-08,North,Chandigarh,Grocery,Rice 10kg,10,932.89,0.05,8862.45,765.43,Corporate,Cash,
+ORD-1159,2024-08-08,Central,Bhopal,Electronics,Tablet,3,18008.28,0.05,51323.6,5813.14,Corporate,Net Banking,
+ORD-1160,2024-08-09,East,Bhubaneswar,Grocery,Cooking Oil 5L,7,853.14,0.0,5971.98,631.04,Corporate,Net Banking,5.0
+ORD-1161,2024-08-11,East,Kolkata,Furniture,Study Table,7,8962.46,0.2,50189.78,3215.72,Small Business,UPI,3.5
+ORD-1162,2024-08-13,South,Chennai,Furniture,Bookshelf,10,6898.87,,68988.7,18318.5,Corporate,Debit Card,3.5
+ORD-1163,2024-08-14,East,Kolkata,Electronics,Headphones,3,2584.77,0.05,7366.59,770.25,Consumer,Cash,4.2
+ORD-1164,2024-08-14,East,Bhubaneswar,Furniture,Study Table,10,8353.27,0.1,75179.43,10423.02,Corporate,Cash,3.1
+ORD-1165,2024-08-16,South,Bengaluru,Clothing,Jeans,8,1726.76,,13814.08,2837.92,Corporate,Credit Card,2.4
+ORD-1166,2024-08-17,North,Chandigarh,Clothing,T-Shirt,5,595.16,0.1,2678.22,509.68,Corporate,UPI,4.4
+ORD-1167,2024-08-18,Central,Bhopal,Electronics,Smartphone,3,23418.18,0.2,56203.63,742.8,Consumer,UPI,3.0
+ORD-1168,2024-08-18,West,Ahmedabad,Electronics,Laptop,3,51251.71,0.0,153755.13,25019.87,Corporate,Credit Card,3.9
+ORD-1169,2024-08-19,North,Delhi,Clothing,Jeans,6,1861.27,0.05,10609.24,2590.91,Consumer,Debit Card,4.1
+ORD-1170,2024-08-21,West,Jamnagar,Electronics,Smart Watch,3,6328.39,0.0,18985.17,2821.29,Consumer,Debit Card,3.7
+ORD-1171,2024-08-22,South,Chennai,Electronics,Headphones,7,2663.92,0.0,18647.44,2552.52,Corporate,Credit Card,5.0
+ORD-1172,2024-08-22,West,Mumbai,Clothing,Sneakers,2,2886.71,0.1,5196.08,1488.77,Consumer,Credit Card,
+ORD-1173,2024-08-25,East,Bhubaneswar,Electronics,Smartphone,2,22855.03,0.0,45710.06,7449.6,Corporate,Credit Card,5.0
+ORD-1174,2024-08-28,Central,Indore,Clothing,Jacket,10,3495.42,0.05,33206.49,9809.18,Consumer,Credit Card,2.3
+ORD-1175,2024-08-29,East,Kolkata,Stationery,Pen Box,5,179.09,0.2,716.36,,Consumer,UPI,4.0
+ORD-1176,2024-08-30,Central,Bhopal,Clothing,Jeans,8,1867.24,0.0,14937.92,4690.46,Small Business,UPI,4.0
+ORD-1177,2024-08-31,South,Bengaluru,Furniture,Study Table,7,8873.65,0.1,55903.99,7524.78,Consumer,Debit Card,4.7
+ORD-1178,2024-09-01,West,Ahmedabad,Stationery,Backpack,3,1448.85,0.0,4346.55,823.37,Small Business,Net Banking,4.3
+ORD-1179,2024-09-01,West,Jamnagar,Clothing,Jacket,9,3742.44,0.0,33681.96,10296.86,Consumer,Credit Card,5.0
+ORD-1180,2024-09-04,West,Ahmedabad,Stationery,Backpack,10,1571.63,0.0,15716.3,3113.83,Corporate,Credit Card,4.2
+ORD-1181,2024-09-07,East,Kolkata,Clothing,Jacket,8,3406.79,0.0,27254.32,,Small Business,Credit Card,2.6
+ORD-1182,2024-09-10,South,Bengaluru,Grocery,Dry Fruits,6,1108.06,0.0,6648.36,414.79,Consumer,UPI,4.3
+ORD-1183,2024-09-10,South,Chennai,Clothing,Sneakers,1,2956.26,0.0,2956.26,949.89,Consumer,UPI,4.7
+ORD-1184,2024-09-15,West,Mumbai,Stationery,Notebook Set,1,237.14,0.15,201.57,31.73,Consumer,Debit Card,3.6
+ORD-1185,2024-09-21,West,Ahmedabad,Clothing,Sneakers,10,2797.34,0.0,27973.4,8264.65,Consumer,UPI,5.0
+ORD-1186,2024-09-22,West,Jamnagar,Grocery,Cooking Oil 5L,1,841.73,0.1,757.56,32.37,Corporate,Debit Card,4.7
+ORD-1187,2024-09-22,East,Kolkata,Clothing,Jacket,7,3357.52,0.0,23502.64,5751.52,Consumer,UPI,3.2
+ORD-1188,2024-09-24,East,Bhubaneswar,Stationery,Pen Box,,192.37,,577.11,166.64,Consumer,Debit Card,3.7
+ORD-1189,2024-09-24,North,Chandigarh,Stationery,Notebook Set,10,252.01,0.0,2520.1,699.25,Corporate,Credit Card,4.7
+ORD-1190,2024-09-25,East,Kolkata,Electronics,Smart Watch,8,5592.02,0.1,40262.54,4626.08,Consumer,UPI,3.6
+ORD-1191,2024-09-27,East,Bhubaneswar,Grocery,Rice 10kg,4,853.17,0.0,3412.68,281.46,Corporate,UPI,5.0
+ORD-1192,2024-09-27,North,Delhi,Furniture,Office Chair,9,7190.04,0.1,58239.32,13919.23,Corporate,Net Banking,3.7
+ORD-1193,2024-09-27,West,Jamnagar,Electronics,Smart Watch,7,5846.15,0.0,40923.05,5218.94,Consumer,UPI,3.5
+ORD-1194,2024-09-29,North,Delhi,Clothing,Jeans,9,1784.56,0.2,12848.83,2957.27,Small Business,Credit Card,3.8
+ORD-1195,2024-09-30,South,Chennai,Electronics,Laptop,3,51016.88,0.0,153050.64,14383.51,Consumer,Credit Card,3.8
+ORD-1196,2024-10-04,East,Kolkata,Electronics,Smart Watch,7,5878.77,0.1,37036.25,1513.55,Consumer,Credit Card,4.1
+ORD-1197,2024-10-05,West,Ahmedabad,Grocery,Rice 10kg,4,904.38,0.05,3436.64,91.17,Consumer,Credit Card,3.0
+ORD-1198,2024-10-09,Central,Bhopal,Grocery,Dry Fruits,10,1108.28,0.1,9974.52,533.33,Corporate,Credit Card,3.6
+ORD-1199,2024-10-17,West,Ahmedabad,Stationery,Printer Paper,1,416.3,0.05,395.49,58.14,Small Business,UPI,3.2
+ORD-1200,2024-10-20,North,Delhi,Grocery,Tea Pack,4,348.87,0.2,1116.38,-18.71,Consumer,Net Banking,4.1
+ORD-1201,2024-10-23,Central,Indore,Clothing,T-Shirt,1,592.67,0.2,474.14,95.06,Consumer,Credit Card,3.1
+ORD-1202,2024-10-25,Central,Indore,Clothing,T-Shirt,3,634.13,0.05,1807.27,508.1,Consumer,UPI,3.7
+ORD-1203,2024-10-25,South,Chennai,Furniture,Bookshelf,3,6687.24,0.0,20061.72,5039.94,Consumer,UPI,5.0
+ORD-1204,2024-10-26,North,Chandigarh,Clothing,Jacket,4,3697.47,0.05,14050.39,3059.7,Consumer,UPI,3.1
+ORD-1205,2024-10-26,Central,Indore,Electronics,Tablet,3,18711.68,0.0,56135.04,9020.59,Corporate,Debit Card,3.2
+ORD-1206,2024-10-28,West,Mumbai,Stationery,Pen Box,4,170.29,0.05,647.1,132.65,Corporate,UPI,4.4
+ORD-1207,2024-10-30,Central,Bhopal,Furniture,Study Table,1,8435.88,0.0,8435.88,1611.98,Consumer,UPI,4.0
+ORD-1208,2024-10-31,South,Chennai,Furniture,Sofa,2,27229.1,0.0,54458.2,8374.62,Corporate,Net Banking,4.5
+ORD-1209,2024-11-01,West,Jamnagar,Clothing,Sneakers,6,2716.93,0.1,14671.42,4444.73,Small Business,Credit Card,4.1
+ORD-1210,2024-11-01,East,Bhubaneswar,Grocery,Dry Fruits,4,1282.41,0.0,5129.64,613.5,Consumer,Debit Card,4.5
+ORD-1211,2024-11-01,West,Mumbai,Grocery,Tea Pack,8,355.73,0.15,2418.96,-43.9,Consumer,UPI,4.6
+ORD-1212,2024-11-06,Central,Indore,Furniture,Sofa,2,27664.46,0.15,47029.58,5434.32,Consumer,UPI,4.0
+ORD-1213,2024-11-11,West,Ahmedabad,Clothing,Jeans,3,1800.77,0.0,5402.31,1460.71,Consumer,Cash,4.1
+ORD-1214,2024-11-11,Central,Indore,Stationery,Notebook Set,8,268.7,0.15,1827.16,175.98,Consumer,Cash,4.9
+ORD-1215,2024-11-12,South,Chennai,Furniture,Office Chair,10,7038.22,0.05,66863.09,15589.54,Corporate,Cash,3.7
+ORD-1216,2024-11-12,South,Bengaluru,Clothing,Jeans,3,1846.92,0.0,5540.76,2146.55,Consumer,UPI,3.4
+ORD-1217,2024-11-12,West,Ahmedabad,Grocery,Cooking Oil 5L,5,803.26,0.0,4016.3,481.89,Small Business,Credit Card,4.4
+ORD-1218,2024-11-13,South,Chennai,Electronics,Tablet,2,19237.34,0.2,30779.74,353.1,Consumer,Credit Card,3.1
+ORD-1219,2024-11-13,North,Chandigarh,Stationery,Backpack,3,1549.27,0.0,4647.81,724.19,Consumer,Debit Card,2.7
+ORD-1220,2024-11-13,Central,Bhopal,Stationery,Backpack,8,1590.3,0.0,12722.4,2519.34,Consumer,UPI,3.3
+ORD-1221,2024-11-14,South,Bengaluru,Furniture,Bookshelf,3,6381.36,0.0,19144.08,3623.68,Consumer,UPI,3.6
+ORD-1222,2024-11-15,North,Chandigarh,Grocery,Rice 10kg,4,912.6,0.2,2920.32,-39.31,Corporate,UPI,3.7
+ORD-1223,2024-11-16,North,Delhi,Grocery,Tea Pack,,347.67,0.0,3476.7,310.61,Corporate,Credit Card,3.5
+ORD-1224,2024-11-16,East,Bhubaneswar,Stationery,Printer Paper,7,427.56,0.1,2693.63,609.75,Consumer,Credit Card,4.4
+ORD-1225,2024-11-16,West,Jamnagar,Stationery,Backpack,7,1480.85,0.0,10365.95,2082.04,Consumer,UPI,4.0
+ORD-1226,2024-11-18,East,Bhubaneswar,Grocery,Rice 10kg,2,870.09,0.2,1392.14,-0.59,Consumer,UPI,3.6
+ORD-1227,2024-11-19,South,Bengaluru,Grocery,Tea Pack,1,322.27,0.1,290.04,19.26,Consumer,Credit Card,4.7
+ORD-1228,2024-11-21,West,Jamnagar,Furniture,Sofa,2,27691.56,0.05,52613.96,13664.79,Consumer,UPI,3.9
+ORD-1229,2024-11-21,West,Jamnagar,Furniture,Office Chair,3,7109.44,0.1,19195.49,3348.52,Consumer,UPI,4.4
+ORD-1230,2024-11-22,North,Chandigarh,Electronics,Smartphone,1,23710.82,0.0,23710.82,2366.62,Consumer,Credit Card,4.0
+ORD-1231,2024-11-22,Central,Bhopal,Grocery,Cooking Oil 5L,2,840.26,0.1,1512.47,91.92,Corporate,UPI,4.3
+ORD-1232,2024-11-24,Central,Indore,Electronics,Headphones,8,2415.22,0.1,17389.58,637.15,Corporate,UPI,3.8
+ORD-1233,2024-11-24,South,Bengaluru,Electronics,Headphones,9,2393.88,0.05,20467.67,1998.14,Consumer,Credit Card,4.9
+ORD-1234,2024-11-24,North,Chandigarh,Electronics,Headphones,9,2320.7,0.05,19841.98,2849.97,Corporate,UPI,4.3
+ORD-1235,2024-11-27,West,Mumbai,Furniture,Study Table,6,8945.61,0.0,53673.66,10510.49,Consumer,UPI,2.4
+ORD-1236,2024-11-28,East,Kolkata,Clothing,Jacket,2,3608.56,0.15,6134.55,1058.25,Consumer,UPI,4.1
+ORD-1237,2024-11-29,South,Bengaluru,Stationery,Pen Box,1,187.14,0.0,187.14,44.69,Consumer,UPI,4.6
+ORD-1238,2024-12-01,West,Ahmedabad,Stationery,Backpack,3,1425.48,0.0,4276.44,997.64,Corporate,Debit Card,4.1
+ORD-1239,2024-12-01,East,Bhubaneswar,Grocery,Rice 10kg,3,908.05,0.0,2724.15,199.09,Corporate,Net Banking,3.8
+ORD-1240,2024-12-03,North,Delhi,Clothing,Sneakers,5,2624.06,0.0,13120.3,4008.61,Small Business,UPI,3.8
+ORD-1241,2024-12-03,North,Chandigarh,Grocery,Dry Fruits,1,1276.85,0.1,1149.16,,Corporate,Debit Card,3.8
+ORD-1242,2024-12-03,North,Chandigarh,Grocery,Dry Fruits,6,1165.91,0.1,6295.91,421.75,Corporate,Credit Card,4.0
+ORD-1243,2024-12-04,Central,Indore,Stationery,Pen Box,2,171.43,0.05,325.72,64.23,Consumer,Credit Card,3.5
+ORD-1244,2024-12-06,West,Ahmedabad,Clothing,Jeans,7,1863.42,0.1,11739.55,3616.35,Consumer,Credit Card,2.8
+ORD-1245,2024-12-06,South,Bengaluru,Furniture,Sofa,2,29670.98,0.1,53407.76,6065.05,Consumer,Debit Card,4.8
+ORD-1246,2024-12-07,North,Chandigarh,Clothing,Sneakers,6,2727.69,0.05,15547.83,5407.87,Consumer,UPI,3.7
+ORD-1247,2024-12-08,Central,Bhopal,Electronics,Smartphone,1,21554.31,0.2,17243.45,526.19,Consumer,UPI,3.3
+ORD-1248,2024-12-08,Central,Indore,Furniture,Sofa,3,29356.12,0.0,88068.36,21250.8,Consumer,UPI,3.9
+ORD-1249,2024-12-09,West,Ahmedabad,Stationery,Printer Paper,6,423.51,0.0,2541.06,693.5,Consumer,Debit Card,4.5
+ORD-1250,2024-12-10,North,Chandigarh,Grocery,Tea Pack,3,324.99,0.2,779.98,12.16,Corporate,Credit Card,3.6
+ORD-1251,2024-12-11,North,Delhi,Electronics,Smartphone,1,21059.22,0.15,17900.34,350.55,Consumer,UPI,3.7
+ORD-1252,2024-12-13,Central,Indore,Clothing,Sneakers,4,2856.52,0.15,9712.17,1507.32,Small Business,Cash,4.0
+ORD-1253,2024-12-13,Central,Indore,Clothing,Jacket,7,3606.68,0.0,25246.76,9887.1,Corporate,UPI,3.9
+ORD-1254,2024-12-18,North,Chandigarh,Clothing,Jeans,6,1781.85,0.0,10691.1,2672.4,Consumer,Net Banking,3.5
+ORD-1255,2024-12-21,West,Jamnagar,Furniture,Sofa,1,28194.03,0.05,26784.33,5934.36,Consumer,Debit Card,4.4
+ORD-1256,2024-12-22,North,Chandigarh,Furniture,Study Table,5,8324.63,0.1,37460.83,7557.59,Consumer,Credit Card,3.8
+ORD-1257,2024-12-24,West,Ahmedabad,Electronics,Smart Watch,1,6148.8,0.2,4919.04,-90.61,Corporate,Cash,4.4
+ORD-1258,2024-12-25,South,Chennai,Clothing,Jeans,7,1903.38,0.0,13323.66,5132.76,Corporate,UPI,4.5
+ORD-1259,2024-12-26,North,Delhi,Electronics,Smart Watch,5,5840.98,0.0,29204.9,3653.8,Corporate,Cash,3.9
+ORD-1260,2024-12-27,Central,Indore,Electronics,Tablet,3,19190.36,0.0,57571.08,6948.0,Small Business,Credit Card,3.8
+ORD-1261,2024-12-27,Central,Bhopal,Clothing,Jacket,8,3237.69,0.0,25901.52,8362.04,Corporate,UPI,3.9
+ORD-1262,2024-12-29,South,Chennai,Grocery,Tea Pack,5,365.28,0.0,1826.4,154.51,Small Business,Cash,4.3
+ORD-1263,2024-12-29,North,Delhi,Stationery,Backpack,10,1434.8,0.2,11478.4,1557.41,Corporate,UPI,4.3
+ORD-1264,2024-12-30,West,Ahmedabad,Electronics,Tablet,1,17990.11,0.15,15291.59,1040.06,Consumer,Credit Card,4.9
+ORD-1265,2024-12-30,South,Bengaluru,Grocery,Cooking Oil 5L,2,879.46,0.1,1583.03,63.7,Consumer,Cash,5.0
+ORD-1266,2024-12-31,South,Bengaluru,Grocery,Rice 10kg,7,949.87,0.2,5319.27,-109.52,Corporate,Credit Card,4.9
+ORD-1267,2024-12-31,West,Ahmedabad,Furniture,Study Table,6,8432.56,0.0,50595.36,13969.6,Consumer,UPI,3.4
+ORD-1268,2024-12-31,South,Bengaluru,Grocery,Cooking Oil 5L,9,791.54,0.05,6767.67,390.56,Consumer,UPI,2.7
+ORD-1269,2025-01-03,North,Delhi,Clothing,T-Shirt,,597.33,0.15,3046.38,835.1,Corporate,Cash,4.1
+ORD-1270,2025-01-04,North,Delhi,Clothing,Jacket,3,3633.94,0.0,10901.82,,Consumer,Net Banking,4.0
+ORD-1271,2025-01-04,East,Kolkata,Stationery,Notebook Set,10,264.99,0.0,2649.9,723.29,Consumer,Cash,3.6
+ORD-1272,2025-01-06,East,Bhubaneswar,Clothing,T-Shirt,4,629.98,0.1,2267.93,552.65,Consumer,UPI,4.2
+ORD-1273,2025-01-09,Central,Bhopal,Stationery,Notebook Set,3,239.99,0.0,719.97,200.93,Consumer,Net Banking,4.2
+ORD-1274,2025-01-10,East,Kolkata,Clothing,Jacket,6,3672.17,0.05,20931.37,5380.79,Corporate,Debit Card,4.1
+ORD-1275,2025-01-13,North,Delhi,Furniture,Bookshelf,9,5982.82,0.0,53845.38,12559.78,Consumer,Credit Card,3.8
+ORD-1276,2025-01-15,East,Kolkata,Clothing,Jeans,8,1821.68,0.0,14573.44,5375.88,Corporate,UPI,3.5
+ORD-1277,2025-01-15,North,Chandigarh,Electronics,Smart Watch,2,5997.14,0.0,11994.28,1229.77,Corporate,UPI,4.0
+ORD-1278,2025-01-19,East,Bhubaneswar,Grocery,Dry Fruits,9,1238.1,0.1,10028.61,368.62,Small Business,UPI,3.2
+ORD-1279,2025-01-22,Central,Indore,Electronics,Headphones,10,2478.11,0.1,22302.99,2545.04,Consumer,Debit Card,4.0
+ORD-1280,2025-01-22,North,Delhi,Electronics,Smartphone,3,21488.63,0.1,58019.3,4723.05,Consumer,UPI,3.2
+ORD-1281,2025-01-24,West,Ahmedabad,Clothing,T-Shirt,4,572.8,0.1,2062.08,592.58,Small Business,UPI,5.0
+ORD-1282,2025-01-30,East,Bhubaneswar,Electronics,Headphones,8,2695.38,0.15,18328.58,1154.09,Consumer,Debit Card,3.8
+ORD-1283,2025-01-31,South,Chennai,Stationery,Notebook Set,5,232.45,0.05,1104.14,157.73,Consumer,Debit Card,4.7
+ORD-1284,2025-02-01,East,Kolkata,Electronics,Laptop,1,58284.51,0.1,52456.06,1783.23,Corporate,UPI,4.8
+ORD-1285,2025-02-02,Central,Indore,Clothing,T-Shirt,10,579.63,0.1,5216.67,838.9,Small Business,Debit Card,4.6
+ORD-1286,2025-02-02,East,Kolkata,Electronics,Tablet,9,18680.7,0.0,168126.3,21036.22,Corporate,Debit Card,3.8
+ORD-1287,2025-02-03,South,Chennai,Clothing,Jeans,3,1763.05,0.0,5289.15,1890.28,Consumer,UPI,
+ORD-1288,2025-02-03,West,Ahmedabad,Clothing,Sneakers,3,2604.77,0.1,7032.88,1584.46,Consumer,Cash,5.0
+ORD-1289,2025-02-08,North,Delhi,Grocery,Cooking Oil 5L,10,871.88,0.05,8282.86,640.64,Consumer,Credit Card,4.4
+ORD-1290,2025-02-08,South,Bengaluru,Electronics,Headphones,5,2349.54,0.05,11160.32,1235.37,Consumer,Credit Card,2.7
+ORD-1291,2025-02-08,North,Delhi,Electronics,Headphones,3,2347.39,0.0,7042.17,,Consumer,UPI,3.6
+ORD-1292,2025-02-09,East,Kolkata,Electronics,Smartphone,2,21398.34,0.05,40656.85,3137.99,Small Business,UPI,4.0
+ORD-1293,2025-02-09,West,Mumbai,Electronics,Tablet,10,18338.86,0.1,165049.74,21236.92,Small Business,UPI,3.3
+ORD-1294,2025-02-09,East,Kolkata,Clothing,T-Shirt,4,641.4,0.0,2565.6,1024.74,Corporate,Net Banking,4.4
+ORD-1295,2025-02-10,North,Chandigarh,Stationery,Pen Box,6,185.89,,1115.34,256.54,Consumer,UPI,5.0
+ORD-1296,2025-02-12,Central,Bhopal,Stationery,Backpack,1,1550.13,,1240.1,63.4,Corporate,UPI,3.0
+ORD-1297,2025-02-16,East,Kolkata,Grocery,Cooking Oil 5L,6,831.67,0.1,4491.02,186.83,Corporate,Cash,4.4
+ORD-1298,2025-02-16,North,Chandigarh,Clothing,Jacket,4,3268.1,0.0,13072.4,2643.73,Consumer,Cash,3.4
+ORD-1299,2025-02-16,West,Jamnagar,Furniture,Bookshelf,5,6317.38,0.1,28428.21,6926.65,Consumer,Debit Card,4.1
+ORD-1300,2025-02-18,South,Chennai,Stationery,Backpack,6,1460.73,0.0,8764.38,1330.18,Small Business,Debit Card,3.5
+ORD-1301,2025-02-19,Central,Bhopal,Electronics,Smart Watch,6,5766.86,0.05,32871.1,2861.28,Corporate,UPI,3.6
+ORD-1302,2025-02-21,North,Chandigarh,Grocery,Cooking Oil 5L,2,908.56,0.05,1726.26,142.19,Corporate,Debit Card,4.0
+ORD-1303,2025-02-23,West,Mumbai,Clothing,Sneakers,3,2620.58,0.1,7075.57,1155.23,Consumer,Credit Card,4.2
+ORD-1304,2025-02-26,Central,Indore,Clothing,Jacket,8,3680.25,0.0,29442.0,9120.86,Consumer,Debit Card,3.5
+ORD-1305,2025-02-28,South,Bengaluru,Stationery,Backpack,1,1579.01,0.05,1500.06,242.6,Consumer,Debit Card,3.5
+ORD-1306,2025-02-28,East,Bhubaneswar,Electronics,Smartphone,1,22882.94,0.0,22882.94,3865.62,Corporate,UPI,4.5
+ORD-1307,2025-03-02,South,Bengaluru,Stationery,Notebook Set,1,243.05,0.0,243.05,50.79,Consumer,Credit Card,4.4
+ORD-1308,2025-03-04,East,Bhubaneswar,Electronics,Smartphone,1,23266.07,0.1,20939.46,1419.67,Consumer,UPI,2.9
+ORD-1309,2025-03-07,East,Bhubaneswar,Stationery,Notebook Set,8,254.71,0.0,2037.68,361.99,Consumer,Net Banking,4.1
+ORD-1310,2025-03-09,West,Jamnagar,Clothing,Jeans,8,1936.92,0.05,14720.59,4467.78,Consumer,Cash,5.0
+ORD-1311,2025-03-11,North,Delhi,Clothing,T-Shirt,8,611.0,0.05,4643.6,1385.97,Consumer,UPI,
+ORD-1312,2025-03-11,Central,Bhopal,Clothing,T-Shirt,3,636.75,0.05,1814.74,479.47,Consumer,Debit Card,4.6
+ORD-1313,2025-03-13,North,Chandigarh,Electronics,Headphones,,2626.31,0.1,23636.79,2763.36,Consumer,Credit Card,4.7
+ORD-1314,2025-03-16,Central,Indore,Furniture,Office Chair,3,7036.69,0.1,18999.06,4125.42,Consumer,UPI,3.6
+ORD-1315,2025-03-16,South,Bengaluru,Clothing,Sneakers,10,2967.92,0.15,25227.32,7443.38,Consumer,UPI,3.5
+ORD-1316,2025-03-18,North,Chandigarh,Furniture,Bookshelf,3,6156.74,,14776.18,1171.94,Corporate,Credit Card,4.4
+ORD-1317,2025-03-19,West,Mumbai,Furniture,Bookshelf,7,6174.16,0.2,34575.3,,Corporate,Debit Card,4.9
+ORD-1318,2025-03-23,West,Mumbai,Clothing,T-Shirt,2,616.64,0.0,1233.28,313.95,Consumer,UPI,5.0
+ORD-1319,2025-03-24,West,Jamnagar,Electronics,Smart Watch,2,6040.07,,12080.14,1798.61,Consumer,Net Banking,3.5
+ORD-1320,2025-03-29,North,Chandigarh,Electronics,Smartphone,,22918.8,0.15,58442.94,624.27,Consumer,UPI,4.3
+ORD-1321,2025-04-02,North,Chandigarh,Stationery,Notebook Set,1,263.08,0.1,236.77,49.78,Small Business,UPI,4.0
+ORD-1322,2025-04-03,North,Delhi,Clothing,Jeans,4,1691.65,0.0,6766.6,1802.28,Consumer,Net Banking,4.5
+ORD-1323,2025-04-04,North,Chandigarh,Stationery,Notebook Set,10,235.7,,2121.3,403.3,Consumer,UPI,5.0
+ORD-1324,2025-04-05,East,Bhubaneswar,Clothing,Jeans,10,1849.53,0.1,16645.77,5774.7,Consumer,Cash,4.7
+ORD-1325,2025-04-06,Central,Bhopal,Electronics,Laptop,2,58845.73,0.0,117691.46,15200.01,Consumer,UPI,5.0
+ORD-1326,2025-04-07,South,Bengaluru,Stationery,Notebook Set,2,241.53,0.0,483.06,74.4,Corporate,Credit Card,4.1
+ORD-1327,2025-04-08,South,Bengaluru,Clothing,Jacket,1,3306.41,0.2,2645.13,667.37,Small Business,Credit Card,4.5
+ORD-1328,2025-04-08,West,Ahmedabad,Clothing,T-Shirt,1,558.01,0.0,558.01,122.24,Corporate,Debit Card,
+ORD-1329,2025-04-08,North,Delhi,Electronics,Tablet,8,17581.83,0.0,140654.64,15198.98,Consumer,Cash,3.9
+ORD-1330,2025-04-09,South,Bengaluru,Grocery,Rice 10kg,2,944.33,0.1,1699.79,23.18,Consumer,Credit Card,5.0
+ORD-1331,2025-04-15,South,Chennai,Clothing,Jeans,1,1703.3,0.0,1703.3,665.69,Consumer,UPI,
+ORD-1332,2025-04-19,South,Chennai,Clothing,Jacket,10,3387.96,0.0,33879.6,10544.81,Corporate,Cash,4.5
+ORD-1333,2025-04-20,South,Bengaluru,Stationery,Printer Paper,6,404.61,0.05,2306.28,301.19,Consumer,UPI,4.4
+ORD-1334,2025-04-22,Central,Bhopal,Electronics,Laptop,1,56725.82,0.0,56725.82,7244.36,Consumer,UPI,4.1
+ORD-1335,2025-04-22,West,Jamnagar,Stationery,Pen Box,2,193.24,0.05,367.16,81.23,Corporate,Cash,4.8
+ORD-1336,2025-04-26,North,Delhi,Clothing,T-Shirt,4,562.1,0.1,2023.56,317.14,Consumer,UPI,4.0
+ORD-1337,2025-04-27,West,Jamnagar,Clothing,T-Shirt,5,560.66,0.05,2663.13,653.93,Corporate,Credit Card,4.7
+ORD-1338,2025-04-28,North,Chandigarh,Stationery,Pen Box,8,179.91,0.05,1367.32,176.35,Consumer,UPI,4.4
+ORD-1339,2025-04-28,Central,Indore,Electronics,Smartphone,1,22350.66,0.0,22350.66,3874.24,Consumer,Credit Card,4.5
+ORD-1340,2025-04-28,South,Chennai,Electronics,Laptop,3,51495.72,0.0,154487.16,17166.97,Consumer,Debit Card,3.4
+ORD-1341,2025-04-29,East,Kolkata,Clothing,T-Shirt,9,591.02,0.15,4521.3,1023.15,Small Business,UPI,4.2
+ORD-1342,2025-04-29,Central,Bhopal,Electronics,Headphones,4,2440.54,0.05,9274.05,1329.09,Consumer,UPI,3.7
+ORD-1343,2025-04-29,North,Chandigarh,Electronics,Laptop,1,55026.36,0.1,49523.72,5425.45,Corporate,UPI,3.7
+ORD-1344,2025-04-30,East,Bhubaneswar,Electronics,Tablet,1,17507.36,0.05,16631.99,,Consumer,Debit Card,3.6
+ORD-1345,2025-05-01,West,Mumbai,Furniture,Office Chair,4,7602.18,0.05,28888.28,4974.71,Corporate,Credit Card,4.2
+ORD-1346,2025-05-02,South,Bengaluru,Clothing,T-Shirt,9,555.49,0.15,4249.5,669.87,Consumer,UPI,4.4
+ORD-1347,2025-05-03,West,Ahmedabad,Clothing,Jeans,10,1738.58,0.15,14777.93,4573.44,Consumer,Debit Card,3.7
+ORD-1348,2025-05-04,South,Bengaluru,Stationery,Printer Paper,5,404.44,0.0,2022.2,515.25,Consumer,Debit Card,4.8
+ORD-1349,2025-05-05,East,Bhubaneswar,Electronics,Smart Watch,2,6184.28,0.1,11131.7,410.57,Consumer,Net Banking,4.0
+ORD-1350,2025-05-09,West,Ahmedabad,Grocery,Cooking Oil 5L,,816.23,0.05,4652.51,149.14,Consumer,Credit Card,3.8
+ORD-1351,2025-05-09,North,Chandigarh,Furniture,Bookshelf,3,6624.83,0.1,17887.04,1942.45,Small Business,UPI,3.8
+ORD-1352,2025-05-09,West,Jamnagar,Clothing,Jeans,2,1808.25,0.0,3616.5,1358.7,Corporate,Credit Card,3.8
+ORD-1353,2025-05-13,East,Kolkata,Stationery,Pen Box,3,167.79,0.05,478.2,83.36,Consumer,Credit Card,4.2
+ORD-1354,2025-05-13,North,Chandigarh,Electronics,Laptop,1,53806.38,0.15,45735.42,1768.46,Corporate,UPI,2.9
+ORD-1355,2025-05-14,West,Jamnagar,Grocery,Dry Fruits,6,1104.19,0.0,6625.14,790.78,Small Business,Net Banking,4.2
+ORD-1356,2025-05-16,West,Jamnagar,Grocery,Cooking Oil 5L,5,889.38,0.0,4446.9,312.06,Corporate,Credit Card,3.6
+ORD-1357,2025-05-21,East,Kolkata,Furniture,Sofa,3,27727.67,0.05,79023.86,16425.1,Corporate,Credit Card,2.7
+ORD-1358,2025-05-23,North,Chandigarh,Stationery,Notebook Set,10,252.57,,2399.41,553.75,Corporate,Debit Card,5.0
+ORD-1359,2025-05-23,East,Bhubaneswar,Electronics,Smart Watch,5,6084.74,0.0,30423.7,5038.05,Consumer,Cash,3.2
+ORD-1360,2025-05-24,South,Chennai,Grocery,Cooking Oil 5L,4,898.17,0.05,3413.05,221.63,Corporate,Debit Card,3.3
+ORD-1361,2025-05-25,West,Jamnagar,Clothing,Jeans,9,1852.24,0.0,16670.16,6531.61,Small Business,Net Banking,3.8
+ORD-1362,2025-05-26,East,Bhubaneswar,Grocery,Dry Fruits,7,1137.06,0.05,7561.45,594.15,Small Business,UPI,4.0
+ORD-1363,2025-05-26,Central,Bhopal,Clothing,Sneakers,5,2624.65,0.0,13123.25,4823.1,Consumer,UPI,2.9
+ORD-1364,2025-05-28,Central,Bhopal,Electronics,Smart Watch,8,6283.51,0.0,50268.08,6998.21,Consumer,Cash,4.5
+ORD-1365,2025-05-29,Central,Indore,Stationery,Pen Box,3,175.1,0.05,499.03,98.31,Consumer,Cash,5.0
+ORD-1366,2025-06-06,Central,Bhopal,Clothing,Jeans,4,1805.54,0.0,7222.16,2598.69,Small Business,Credit Card,3.8
+ORD-1367,2025-06-07,South,Bengaluru,Grocery,Tea Pack,6,372.65,0.0,2235.9,264.14,Small Business,Credit Card,4.5
+ORD-1368,2025-06-07,South,Chennai,Furniture,Office Chair,8,7068.54,0.0,56548.32,12263.06,Consumer,Cash,4.0
+ORD-1369,2025-06-07,East,Bhubaneswar,Grocery,Rice 10kg,1,938.27,0.1,844.44,23.74,Small Business,Cash,4.1
+ORD-1370,2025-06-09,South,Bengaluru,Clothing,Jacket,8,3383.85,0.15,23010.18,4386.07,Consumer,UPI,4.8
+ORD-1371,2025-06-09,South,Chennai,Stationery,Printer Paper,9,450.33,0.05,3850.32,646.95,Consumer,UPI,3.5
+ORD-1372,2025-06-10,South,Bengaluru,Electronics,Headphones,2,2398.59,0.0,4797.18,492.08,Consumer,Credit Card,3.9
+ORD-1373,2025-06-11,South,Bengaluru,Clothing,Jacket,7,3424.68,0.0,23972.76,6331.61,Corporate,UPI,4.6
+ORD-1374,2025-06-12,Central,Indore,Grocery,Cooking Oil 5L,7,858.25,0.15,5106.59,112.71,Consumer,UPI,4.7
+ORD-1375,2025-06-14,North,Delhi,Clothing,Sneakers,5,2839.88,0.0,14199.4,5174.62,Corporate,Credit Card,3.9
+ORD-1376,2025-06-17,South,Chennai,Electronics,Laptop,3,52152.85,0.0,156458.55,24343.04,Consumer,UPI,5.0
+ORD-1377,2025-06-21,Central,Bhopal,Furniture,Sofa,1,27145.44,0.0,27145.44,5365.25,Consumer,Credit Card,4.0
+ORD-1378,2025-06-21,South,Chennai,Electronics,Smartphone,1,23437.38,0.15,19921.77,1453.2,Consumer,UPI,4.1
+ORD-1379,2025-06-21,North,Delhi,Furniture,Office Chair,6,7331.92,0.1,39592.37,5718.65,Corporate,Cash,4.9
+ORD-1380,2025-06-22,Central,Bhopal,Clothing,Jeans,3,1671.36,0.1,4512.67,831.24,Consumer,UPI,4.7
+ORD-1381,2025-06-23,South,Bengaluru,Furniture,Study Table,10,9165.8,0.05,87075.1,11392.61,Consumer,Credit Card,4.0
+ORD-1382,2025-06-26,West,Jamnagar,Clothing,Jeans,3,1669.65,0.0,5008.95,1432.59,Consumer,Credit Card,4.8
+ORD-1383,2025-06-27,Central,Indore,Electronics,Laptop,1,53515.24,0.1,48163.72,3559.47,Small Business,Debit Card,5.0
+ORD-1384,2025-06-28,Central,Indore,Grocery,Dry Fruits,9,1263.81,0.1,10236.86,574.56,Consumer,Credit Card,3.9
+ORD-1385,2025-06-29,West,Mumbai,Stationery,Notebook Set,5,262.79,0.1,1182.56,288.88,Corporate,Debit Card,3.5
+ORD-1386,2025-06-29,South,Chennai,Stationery,Pen Box,6,182.28,0.0,1093.68,324.0,Corporate,Debit Card,4.6
+ORD-1387,2025-06-30,North,Chandigarh,Electronics,Headphones,2,2642.6,0.05,5020.94,321.41,Consumer,Cash,4.3
+ORD-1388,2025-06-30,West,Ahmedabad,Electronics,Tablet,1,18033.21,0.05,17131.55,2229.35,Consumer,UPI,4.3
+ORD-1389,2025-07-03,South,Chennai,Stationery,Notebook Set,2,269.53,0.0,539.06,88.01,Consumer,Debit Card,
+ORD-1390,2025-07-06,East,Bhubaneswar,Furniture,Office Chair,7,7656.78,0.2,42877.97,8326.43,Corporate,Debit Card,5.0
+ORD-1391,2025-07-07,East,Bhubaneswar,Grocery,Tea Pack,1,364.45,0.2,291.56,-12.84,Small Business,UPI,3.9
+ORD-1392,2025-07-07,North,Delhi,Stationery,Notebook Set,10,235.12,0.0,2351.2,598.9,Consumer,UPI,3.9
+ORD-1393,2025-07-08,North,Delhi,Clothing,T-Shirt,7,614.3,0.1,3870.09,901.95,Consumer,UPI,3.4
+ORD-1394,2025-07-09,West,Jamnagar,Electronics,Smartphone,1,20794.22,0.1,18714.8,1739.7,Corporate,Credit Card,3.9
+ORD-1395,2025-07-11,North,Delhi,Clothing,T-Shirt,1,593.36,0.05,563.69,146.88,Corporate,Cash,3.7
+ORD-1396,2025-07-12,South,Chennai,Clothing,T-Shirt,6,554.98,0.1,2996.89,776.18,Consumer,Net Banking,2.8
+ORD-1397,2025-07-12,North,Delhi,Clothing,Jeans,7,1775.16,0.05,11804.81,2751.25,Corporate,UPI,3.6
+ORD-1398,2025-07-13,North,Chandigarh,Furniture,Study Table,7,9205.52,0.1,57994.78,11089.72,Consumer,Debit Card,4.3
+ORD-1399,2025-07-14,Central,Bhopal,Electronics,Laptop,1,54331.35,0.0,54331.35,,Corporate,UPI,4.3
+ORD-1400,2025-07-15,Central,Indore,Clothing,Jacket,8,3265.61,0.05,24818.64,4483.34,Consumer,Net Banking,3.4
+ORD-1401,2025-07-17,Central,Bhopal,Clothing,T-Shirt,3,611.53,0.05,1742.86,434.19,Consumer,UPI,3.1
+ORD-1402,2025-07-17,South,Bengaluru,Clothing,T-Shirt,1,643.48,0.0,643.48,182.57,Small Business,Debit Card,3.0
+ORD-1403,2025-07-18,East,Kolkata,Stationery,Notebook Set,1,269.48,0.15,229.06,49.1,Consumer,Debit Card,3.8
+ORD-1404,2025-07-21,Central,Bhopal,Clothing,Sneakers,10,2853.8,0.0,28538.0,7991.02,Consumer,UPI,3.8
+ORD-1405,2025-07-22,East,Bhubaneswar,Grocery,Rice 10kg,6,881.91,0.1,4762.31,270.99,Consumer,Cash,3.8
+ORD-1406,2025-07-22,East,Bhubaneswar,Clothing,Sneakers,9,2749.1,0.05,23504.8,5546.72,Consumer,Debit Card,4.2
+ORD-1407,2025-07-23,South,Bengaluru,Electronics,Tablet,9,17556.48,0.2,126406.66,92.95,Consumer,Cash,3.9
+ORD-1408,2025-07-23,West,Ahmedabad,Stationery,Printer Paper,6,425.79,0.05,2427.0,316.49,Consumer,UPI,
+ORD-1409,2025-07-24,South,Bengaluru,Clothing,Sneakers,1,2608.72,0.0,2608.72,621.34,Consumer,Cash,2.7
+ORD-1410,2025-07-25,West,Jamnagar,Electronics,Tablet,9,17410.54,0.05,148860.12,22463.38,Corporate,UPI,2.8
+ORD-1411,2025-07-26,East,Kolkata,Stationery,Notebook Set,10,234.24,0.05,2225.28,383.48,Corporate,UPI,3.2
+ORD-1412,2025-07-26,West,Jamnagar,Electronics,Headphones,5,2363.27,0.05,11225.53,778.31,Consumer,Credit Card,5.0
+ORD-1413,2025-07-27,Central,Indore,Electronics,Smart Watch,3,5572.58,0.0,16717.74,2162.41,Consumer,Credit Card,3.1
+ORD-1414,2025-07-28,North,Chandigarh,Electronics,Laptop,2,51232.15,0.0,102464.3,12979.7,Small Business,Net Banking,4.2
+ORD-1415,2025-07-28,Central,Bhopal,Electronics,Tablet,4,17244.62,0.0,68978.48,6175.19,Consumer,UPI,3.3
+ORD-1416,2025-07-29,North,Delhi,Furniture,Sofa,3,26839.58,0.05,76492.8,11674.4,Consumer,UPI,3.5
+ORD-1417,2025-08-02,South,Bengaluru,Furniture,Sofa,1,29925.36,,29925.36,7025.64,Consumer,Credit Card,4.6
+ORD-1418,2025-08-03,West,Jamnagar,Grocery,Dry Fruits,3,1141.13,0.0,3423.39,387.41,Small Business,Debit Card,4.1
+ORD-1419,2025-08-03,South,Bengaluru,Clothing,Jacket,10,3506.09,0.05,33307.86,10094.78,Consumer,UPI,4.5
+ORD-1420,2025-08-04,West,Mumbai,Grocery,Tea Pack,4,368.01,0.05,1398.44,108.72,Small Business,Credit Card,4.0
+ORD-1421,2025-08-04,North,Chandigarh,Electronics,Smartphone,1,21530.87,0.1,19377.78,2421.45,Consumer,Credit Card,4.9
+ORD-1422,2025-08-10,East,Bhubaneswar,Grocery,Rice 10kg,3,965.29,0.05,2751.08,222.85,Corporate,UPI,3.3
+ORD-1423,2025-08-10,Central,Bhopal,Electronics,Laptop,3,53075.57,0.1,143304.04,17341.07,Consumer,Credit Card,4.5
+ORD-1424,2025-08-10,North,Delhi,Electronics,Laptop,1,54178.06,0.1,48760.25,4261.57,Consumer,UPI,4.3
+ORD-1425,2025-08-10,North,Chandigarh,Grocery,Rice 10kg,4,905.78,0.2,2898.5,-35.51,Consumer,UPI,4.7
+ORD-1426,2025-08-12,South,Bengaluru,Grocery,Tea Pack,9,332.44,0.0,2991.96,217.29,Corporate,Debit Card,3.8
+ORD-1427,2025-08-13,West,Mumbai,Furniture,Bookshelf,7,6562.11,0.0,45934.77,13142.5,Corporate,Debit Card,4.1
+ORD-1428,2025-08-13,South,Bengaluru,Clothing,Jeans,4,1894.39,0.1,6819.8,1705.38,Consumer,Credit Card,2.9
+ORD-1429,2025-08-17,East,Kolkata,Furniture,Bookshelf,5,6969.09,0.1,31360.9,7308.84,Small Business,UPI,4.4
+ORD-1430,2025-08-19,North,Delhi,Clothing,Jacket,8,3728.83,0.1,26847.58,7392.84,Consumer,Credit Card,3.9
+ORD-1431,2025-08-22,North,Chandigarh,Clothing,T-Shirt,9,620.09,0.1,5022.73,1145.67,Consumer,UPI,4.6
+ORD-1432,2025-08-23,Central,Bhopal,Furniture,Office Chair,1,7728.49,0.05,7342.07,1375.55,Consumer,Credit Card,4.5
+ORD-1433,2025-08-25,South,Chennai,Clothing,T-Shirt,1,639.14,0.0,639.14,185.47,Consumer,UPI,3.4
+ORD-1434,2025-08-26,South,Bengaluru,Furniture,Office Chair,7,7198.66,0.0,50390.62,10613.43,Consumer,Net Banking,3.4
+ORD-1435,2025-08-27,East,Bhubaneswar,Stationery,Pen Box,3,188.32,0.05,536.71,116.34,Corporate,Cash,4.7
+ORD-1436,2025-08-28,West,Mumbai,Electronics,Tablet,7,17954.83,0.15,106831.24,9153.67,Consumer,UPI,3.2
+ORD-1437,2025-08-28,Central,Indore,Electronics,Headphones,8,2520.94,0.15,17142.39,565.35,Consumer,Cash,3.5
+ORD-1438,2025-08-29,North,Chandigarh,Electronics,Smart Watch,3,6293.98,0.0,18881.94,2670.71,Corporate,UPI,4.4
+ORD-1439,2025-08-30,South,Chennai,Clothing,Jacket,3,3611.59,0.05,10293.03,2726.32,Corporate,UPI,3.5
+ORD-1440,2025-08-30,West,Ahmedabad,Electronics,Laptop,3,56623.84,0.0,169871.52,13829.15,Consumer,UPI,3.3
+ORD-1441,2025-08-30,West,Mumbai,Clothing,Sneakers,2,2825.38,0.0,5650.76,2233.41,Corporate,Debit Card,3.3
+ORD-1442,2025-09-05,West,Jamnagar,Electronics,Headphones,4,2647.26,0.05,10059.59,1212.49,Corporate,Credit Card,4.1
+ORD-1443,2025-09-05,West,Jamnagar,Grocery,Cooking Oil 5L,,898.21,0.0,2694.63,171.66,Consumer,UPI,3.6
+ORD-1444,2025-09-05,East,Bhubaneswar,Clothing,T-Shirt,9,558.78,0.0,5029.02,1473.67,Consumer,Net Banking,3.8
+ORD-1445,2025-09-06,East,Bhubaneswar,Furniture,Bookshelf,9,6693.3,0.05,57227.72,10783.84,Corporate,Debit Card,3.5
+ORD-1446,2025-09-09,Central,Bhopal,Stationery,Notebook Set,,231.68,0.05,660.29,167.39,Corporate,UPI,3.0
+ORD-1447,2025-09-10,Central,Bhopal,Clothing,Sneakers,2,2977.68,0.0,5955.36,2274.7,Small Business,Credit Card,4.6
+ORD-1448,2025-09-12,South,Chennai,Electronics,Laptop,1,55791.06,0.15,47422.4,2148.06,Corporate,Credit Card,3.4
+ORD-1449,2025-09-14,South,Chennai,Clothing,Jeans,8,1943.23,0.05,14768.55,2620.58,Corporate,UPI,3.8
+ORD-1450,2025-09-16,South,Chennai,Clothing,T-Shirt,6,628.61,0.0,3771.66,1372.69,Corporate,Net Banking,4.3
+ORD-1451,2025-09-16,West,Mumbai,Stationery,Backpack,4,1577.82,0.05,5995.72,1305.75,Consumer,Credit Card,4.3
+ORD-1452,2025-09-17,South,Chennai,Grocery,Cooking Oil 5L,9,907.17,0.0,8164.53,945.29,Consumer,Cash,4.4
+ORD-1453,2025-09-18,North,Delhi,Electronics,Tablet,1,18032.46,0.15,15327.59,271.95,Corporate,UPI,3.3
+ORD-1454,2025-09-18,East,Kolkata,Stationery,Backpack,8,1590.52,,12087.95,3020.15,Consumer,Debit Card,3.7
+ORD-1455,2025-09-22,West,Jamnagar,Stationery,Notebook Set,7,268.09,0.0,1876.63,418.35,Consumer,Credit Card,4.2
+ORD-1456,2025-09-25,East,Kolkata,Stationery,Backpack,8,1408.35,0.05,10703.46,2283.22,Consumer,UPI,4.8
+ORD-1457,2025-09-25,West,Mumbai,Clothing,T-Shirt,2,608.69,0.0,1217.38,419.65,Small Business,UPI,3.8
+ORD-1458,2025-09-30,East,Kolkata,Furniture,Study Table,3,8959.11,0.15,22845.73,4849.96,Consumer,Debit Card,3.5
+ORD-1459,2025-10-05,East,Kolkata,Electronics,Laptop,3,55166.59,0.1,148949.79,9820.84,Consumer,Debit Card,4.3
+ORD-1460,2025-10-08,West,Ahmedabad,Grocery,Tea Pack,8,363.81,0.0,2910.48,201.17,Corporate,Net Banking,4.0
+ORD-1461,2025-10-10,South,Chennai,Stationery,Backpack,2,1469.11,0.0,2938.22,767.97,Consumer,Debit Card,4.3
+ORD-1462,2025-10-12,East,Bhubaneswar,Electronics,Smartphone,1,22037.53,0.0,22037.53,2160.36,Consumer,Credit Card,4.1
+ORD-1463,2025-10-12,Central,Indore,Electronics,Headphones,2,2394.74,0.0,4789.48,530.74,Corporate,UPI,5.0
+ORD-1464,2025-10-13,East,Kolkata,Clothing,Sneakers,9,2681.86,0.0,24136.74,6284.17,Consumer,Cash,3.8
+ORD-1465,2025-10-13,West,Mumbai,Electronics,Tablet,5,17658.28,0.05,83876.83,,Corporate,Net Banking,4.3
+ORD-1466,2025-10-14,South,Chennai,Grocery,Cooking Oil 5L,6,827.46,0.0,4964.76,451.22,Corporate,Credit Card,3.7
+ORD-1467,2025-10-16,South,Bengaluru,Furniture,Office Chair,10,7109.9,0.0,71099.0,12430.22,Small Business,UPI,4.3
+ORD-1468,2025-10-17,South,Bengaluru,Furniture,Office Chair,7,6948.6,0.05,46208.19,10313.0,Consumer,Cash,2.5
+ORD-1469,2025-10-19,West,Mumbai,Clothing,Sneakers,7,2930.11,0.0,20510.77,7648.26,Corporate,UPI,4.5
+ORD-1470,2025-10-20,North,Delhi,Clothing,Sneakers,6,2956.99,0.2,14193.55,1723.7,Consumer,Credit Card,3.4
+ORD-1471,2025-10-23,West,Ahmedabad,Stationery,Notebook Set,8,230.75,0.05,1753.7,381.8,Consumer,UPI,3.5
+ORD-1472,2025-10-23,Central,Indore,Electronics,Smartphone,3,21371.33,0.05,60908.29,6491.18,Consumer,UPI,3.9
+ORD-1473,2025-10-25,East,Kolkata,Clothing,Sneakers,3,2917.91,0.0,8753.73,1899.17,Corporate,Cash,4.8
+ORD-1474,2025-10-30,West,Jamnagar,Clothing,T-Shirt,8,617.41,0.0,4939.28,1531.93,Consumer,Debit Card,3.0
+ORD-1475,2025-10-31,North,Delhi,Clothing,T-Shirt,1,615.96,0.15,523.57,80.26,Consumer,UPI,4.6
+ORD-1476,2025-11-04,North,Chandigarh,Clothing,T-Shirt,4,578.39,0.2,1850.85,278.46,Consumer,UPI,4.3
+ORD-1477,2025-11-06,East,Bhubaneswar,Electronics,Headphones,7,2400.15,0.1,15120.94,1617.56,Consumer,Debit Card,5.0
+ORD-1478,2025-11-06,Central,Indore,Electronics,Laptop,1,57759.03,0.0,57759.03,8436.19,Consumer,Credit Card,4.7
+ORD-1479,2025-11-07,Central,Bhopal,Furniture,Office Chair,9,7095.3,0.05,60664.82,15305.75,Corporate,UPI,4.6
+ORD-1480,2025-11-07,West,Jamnagar,Electronics,Smart Watch,7,6278.98,0.15,37359.93,3852.79,Corporate,Credit Card,4.3
+ORD-1481,2025-11-08,North,Delhi,Clothing,T-Shirt,,574.6,0.05,4912.83,1576.84,Consumer,Net Banking,3.4
+ORD-1482,2025-11-08,West,Jamnagar,Electronics,Tablet,4,17704.44,0.1,63735.98,7795.0,Corporate,Debit Card,3.0
+ORD-1483,2025-11-12,East,Kolkata,Stationery,Backpack,3,1405.53,0.2,3373.27,605.91,Corporate,Credit Card,4.4
+ORD-1484,2025-11-12,South,Chennai,Furniture,Bookshelf,2,6551.29,0.05,12447.45,2512.24,Small Business,Credit Card,3.8
+ORD-1485,2025-11-13,North,Delhi,Electronics,Smart Watch,7,6335.48,0.0,44348.36,4413.3,Consumer,Credit Card,3.2
+ORD-1486,2025-11-14,North,Delhi,Furniture,Bookshelf,7,6035.15,0.0,42246.05,10707.8,Consumer,UPI,4.0
+ORD-1487,2025-11-14,North,Delhi,Clothing,Jeans,1,1734.61,0.2,1387.69,393.66,Consumer,Credit Card,3.3
+ORD-1488,2025-11-15,East,Bhubaneswar,Grocery,Cooking Oil 5L,2,798.93,0.05,1517.97,130.4,Consumer,Credit Card,3.5
+ORD-1489,2025-11-15,North,Delhi,Grocery,Dry Fruits,10,1191.32,0.0,11913.2,,Corporate,UPI,4.5
+ORD-1490,2025-11-16,North,Delhi,Furniture,Sofa,1,27019.98,0.1,24317.98,2950.8,Consumer,UPI,4.3
+ORD-1491,2025-11-17,South,Chennai,Grocery,Cooking Oil 5L,8,917.58,0.0,7340.64,513.74,Small Business,Debit Card,3.4
+ORD-1492,2025-11-22,East,Kolkata,Electronics,Headphones,8,2641.81,0.05,20077.76,2446.65,Consumer,Credit Card,4.3
+ORD-1493,2025-11-26,Central,Bhopal,Stationery,Backpack,5,1462.16,0.05,6945.26,1007.64,Consumer,Credit Card,3.8
+ORD-1494,2025-11-27,East,Bhubaneswar,Furniture,Study Table,8,8634.14,0.1,62165.81,14619.98,Consumer,UPI,4.5
+ORD-1495,2025-11-28,Central,Indore,Clothing,Jeans,2,1784.68,0.05,3390.89,774.7,Consumer,UPI,3.7
+ORD-1496,2025-11-30,North,Delhi,Furniture,Office Chair,7,7392.04,0.0,51744.28,14872.33,Consumer,Net Banking,5.0
+ORD-1497,2025-12-01,North,Delhi,Grocery,Rice 10kg,1,846.89,0.1,762.2,11.17,Corporate,UPI,4.6
+ORD-1498,2025-12-01,Central,Bhopal,Electronics,Headphones,5,2546.85,0.15,10824.11,174.06,Consumer,UPI,1.8
+ORD-1499,2025-12-02,Central,Indore,Stationery,Notebook Set,6,246.6,0.2,1183.68,70.76,Consumer,Credit Card,3.4
+ORD-1500,2025-12-03,West,Mumbai,Clothing,T-Shirt,,578.16,0.1,2601.72,686.67,Corporate,Credit Card,4.1
+ORD-1501,2025-12-03,East,Kolkata,Electronics,Laptop,2,50653.31,0.0,101306.62,12466.89,Consumer,Debit Card,3.5
+ORD-1502,2025-12-04,North,Delhi,Stationery,Backpack,10,1520.47,0.2,12163.76,2191.94,Corporate,UPI,3.7
+ORD-1503,2025-12-06,South,Chennai,Clothing,Sneakers,1,2698.85,0.2,2159.08,352.29,Consumer,Credit Card,5.0
+ORD-1504,2025-12-07,East,Bhubaneswar,Grocery,Tea Pack,5,333.69,0.0,1668.45,137.45,Corporate,Credit Card,3.6
+ORD-1505,2025-12-08,South,Bengaluru,Clothing,Jeans,6,1805.04,0.1,9747.22,2451.83,Consumer,UPI,4.8
+ORD-1506,2025-12-08,East,Bhubaneswar,Clothing,Sneakers,6,2823.47,0.1,15246.74,3124.51,Corporate,Credit Card,3.8
+ORD-1507,2025-12-08,North,Delhi,Electronics,Tablet,5,18826.03,0.15,80010.63,5149.59,Corporate,Debit Card,4.6
+ORD-1508,2025-12-09,North,Chandigarh,Grocery,Dry Fruits,1,1106.06,0.0,1106.06,67.38,Consumer,UPI,4.8
+ORD-1509,2025-12-10,West,Jamnagar,Furniture,Office Chair,4,7065.48,0.1,25435.73,3064.77,Consumer,Debit Card,3.7
+ORD-1510,2025-12-11,West,Mumbai,Electronics,Tablet,1,19294.77,0.05,18330.03,,Consumer,Credit Card,3.9
+ORD-1511,2025-12-12,South,Chennai,Furniture,Sofa,3,28726.71,0.0,86180.13,16719.49,Consumer,Credit Card,4.4
+ORD-1512,2025-12-13,West,Mumbai,Electronics,Headphones,7,2533.79,0.05,16849.7,1860.91,Corporate,UPI,5.0
+ORD-1513,2025-12-18,North,Chandigarh,Electronics,Tablet,6,18295.67,0.0,109774.02,18220.84,Consumer,Debit Card,4.1
+ORD-1514,2025-12-23,West,Jamnagar,Stationery,Pen Box,3,173.68,0.05,494.99,81.83,Consumer,UPI,3.9
+ORD-1515,2025-12-24,Central,Indore,Stationery,Printer Paper,8,419.92,0.0,3359.36,594.55,Corporate,Credit Card,4.0
+ORD-1516,2025-12-25,North,Delhi,Electronics,Smartphone,3,21002.83,0.0,63008.49,7974.41,Small Business,UPI,4.2
+ORD-1517,2025-12-25,West,Mumbai,Grocery,Rice 10kg,7,960.54,0.05,6387.59,333.92,Consumer,Cash,4.7
+ORD-1518,2025-12-27,East,Bhubaneswar,Furniture,Sofa,1,27932.62,0.1,25139.36,3595.02,Corporate,Debit Card,4.0
+ORD-1519,2025-12-28,East,Kolkata,Clothing,Jacket,2,3423.73,0.1,6162.71,1702.96,Small Business,UPI,3.5
+ORD-1520,2025-12-29,Central,Indore,Stationery,Backpack,6,1572.16,0.05,8961.31,2172.79,Corporate,UPI,3.1
